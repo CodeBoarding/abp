@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-07T10:21:38.995002+00:00",
+  "generated_at": "2026-09-07T16:39:28.477767+00:00",
   "analyzed_files": [
     "abp_io/AbpIoLocalization/AbpIoLocalization/AbpIoLocalizationModule.cs",
     "abp_io/AbpIoLocalization/AbpIoLocalization/Account/Localization/AbpIoAccountResource.cs",
